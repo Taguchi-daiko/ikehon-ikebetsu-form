@@ -1,11 +1,11 @@
 
 // ビルド時に埋め込まれる設定値 ---
 const GAS_ID = "m1";
-const GAS_URL = "AKfycbz8zlq3jruXA401ajjxslfm9lELkMF-9WusRW5hMiUzRK5o7MU02YJGtErzPQqNXB29";
+const GAS_URL = "AKfycbwU9_8VlxU22F5NNnMmoCH9s0ju-Rt2Vc-4Z4pAWlqJo5a4h1c_WoPCxEEHRqa-V0F8";
 
 const GROUP_ID = "m1";
 const UPLOAD_API_ENDPOINT = "https://order.dv-gsaroma.com/upload-api";
-const GROUP_TOKEN = "0f8fc254adb8a0a85bbde9be12aac601";
+const GROUP_TOKEN = "8ae65182cbecc27c5f5e8e4484edbd06";
 
 // フォーム項目リスト(JSON文字列として埋め込まれ、JSでパースされる)
 const FORM_FIELDS = JSON.parse('["マリン池袋本店","マリン池袋別館"]');
